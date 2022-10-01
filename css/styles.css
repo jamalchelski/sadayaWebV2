@@ -89,6 +89,11 @@ h5 {
 }
 .cs {
     padding-left: 20px;
+    
+}
+.pend {
+    padding-left: 50px;
+    color: rgb(16, 33, 185);
 }
 
 .ref {
