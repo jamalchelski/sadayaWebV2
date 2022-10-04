@@ -1,3 +1,8 @@
+html {
+    background-image: url('../img/bg.jpg');
+    background-size:contain;
+    background-position:center;
+}
 body h1 {
     color: rgb(16, 33, 185);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
